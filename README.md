@@ -1,4 +1,4 @@
-# liberation-core-supplement
+# libretro-core-supplement
 
 supplement retroarch core -test.
 
