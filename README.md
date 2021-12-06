@@ -1,5 +1,5 @@
-# liberation-core-supplement
+# This is libretro-core
 
-supplement retroarch core -test.
+supplement retroarch core, Used to execute hack games-tests.
 
 Mainly used for EmuELEC
